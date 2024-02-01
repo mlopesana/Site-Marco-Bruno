@@ -32,7 +32,7 @@ a{
 
 a:hover{
     color:orange;
-    transition: 0.3s;
+    transition: 0.3s all;
 }
 
 
